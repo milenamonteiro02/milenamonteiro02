@@ -1,16 +1,17 @@
-## Hi there 👋
+seja bem vindo ao meu perfil 
 
-<!--
-**milenamonteiro02/milenamonteiro02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+milena monteiro vieira tenho 16 ano
 
-Here are some ideas to get you started:
+entre em contto com migo pelo (milena.monteiro.vieira@escola.pr.gov.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou etudando na [alura](https://cursos.alura.com.br/corp/pensamento-computacional-1-serie-111018-p695562)
+
+eu gosto de muica
+
+sou boa tocando instrumento, matematica e linguas 
+
+conseguir um emprego e uma casa boa, contruir uma familia 
+
+![](https://media.tenor.com/I5EEKka6bjUAAAAM/music-go-bibi.gif)
+
+![](https://media.tenor.com/mV-MKQE7CucAAAAj/music-listening-to-music.gif)
